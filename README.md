@@ -12,15 +12,11 @@ OrionAI is a ChatGPT-style AI chat application built with React that supports mu
 
 💾 Persistent chat history using localStorage
 
-🧭 Collapsible sidebar with chat management
-
 🗑️ Delete individual chats
 
 ✏️ Automatic chat title generation
 
 📜 Markdown-rendered AI responses
-
-⌨️ Enter key support for sending messages
 
 🔒 Environment variable–based API key handling
 
